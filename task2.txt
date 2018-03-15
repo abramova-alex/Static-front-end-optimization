@@ -1,0 +1,4 @@
+1. Add as devDependencies some js concat, uglify/minify
+2. Write gulp task what concat and uglify main.js and helper.js into dist/bundle.min.js
+3. Run gulp task and test result
+4. Combine gulp task from task1 and task2 into one defaut gulp task
